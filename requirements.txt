@@ -15,7 +15,7 @@ fonttools==4.38.0
 fsspec==2023.1.0
 gitdb==4.0.11
 GitPython==3.1.40
-h11==0.6.0
+h11==0.8.0
 httptools==0.6.0
 idna==3.4
 ipython==7.34.0
@@ -61,7 +61,7 @@ traitlets==5.9.0
 typing_extensions==4.7.1
 tzdata==2023.3
 urllib3==2.0.7
-uvicorn==0.9.0
+uvicorn==0.22.0
 watchfiles==0.20.0
 wcwidth==0.2.9
-websockets==8
+websockets==11.0.3
